@@ -334,7 +334,7 @@ header h1 {
     "footer footer";
     }
     
-.subgrid { /*This is for the subgrid to allow Main and fig1 on special.html*/
+.nestedgrid { /*This is for the subgrid to allow Main and fig1 on special.html*/
     display:grid;
     grid-template-areas:
     "section fig1";
