@@ -313,7 +313,7 @@ video {
     "footer footer";
 }
     
-.subgrid { /*This is for the subgrid to allow Main and fig1 on special.html*/
+.nestedgrid { /*This is for the nested grid to allow Main and fig1 on special.html*/
     display:grid;
     grid-template-areas:
     "section"
