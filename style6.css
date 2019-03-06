@@ -351,7 +351,7 @@ input {
     "footer footer";
 }
     
-.subgrid { /*This is for the subgrid to allow Main and fig1 on special.html*/
+.nestedgrid { /*This is for the nested grid to allow Main and fig1 on special.html*/
     display:grid;
     grid-template-areas:
     "special"
@@ -423,13 +423,13 @@ input {
     "footer footer";
     }
     
-.subgrid { /*This is for the subgrid to allow Main and fig1 on special.html*/
+.nestedgrid { /*This is for the nested grid to allow Main and fig1 on special.html*/
     display:grid;
     grid-template-areas:
     "special fig1";
     }
     
-.subgrid2 {/*This is for the subgrid to allow the form to be split on contact.html*/
+.nestedgrid2 {/*This is for the nested grid to allow the form to be split on contact.html*/
     display:grid;
     grid-template-columns:1fr 1fr;
     grid-template-areas:
