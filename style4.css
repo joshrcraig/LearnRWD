@@ -269,12 +269,6 @@ article p {
     "footer footer";
 }
     
-.nestedgrid { /*This is for the nested grid to allow Main and fig1 on special.html*/
-    display:grid;
-    grid-template-areas:
-    "section"
-    "fig1";
-}
 
 header h1 {
      font-size:6vw;
@@ -334,9 +328,4 @@ header h1 {
     "footer footer";
     }
     
-.nestedgrid { /*This is for the subgrid to allow Main and fig1 on special.html*/
-    display:grid;
-    grid-template-areas:
-    "section fig1";
-    }
 }
