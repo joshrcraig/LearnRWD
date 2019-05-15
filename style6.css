@@ -75,7 +75,7 @@ main h2 {
     margin:1%;
 }
 main p {
-    color:black;
+    color:dimgray;
     padding:1% 2%;
     font-size:1em;
 }
@@ -89,7 +89,7 @@ footer {
 
 footer p {
      font-size:1em;
-     color:black;
+     color:dimgray;
      margin:0;
 }
 
