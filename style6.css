@@ -25,7 +25,7 @@ body {
     
 header {
     grid-area:header;
-    border: 2px solid black;
+    border: 2px solid navy;
     padding:5px;
     text-align:center;
     border-radius:5px;
@@ -67,7 +67,7 @@ a:hover {
 }
 main {
     grid-area:main;
-    border: 2px solid black;
+    border: 2px solid navy;
     padding:5px;
     border-radius:5px;
     }
