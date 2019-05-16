@@ -45,7 +45,7 @@ header h3 {
 }
 nav {
     grid-area:nav;
-    background:rgba(0,0,0,.2);
+    background:#33000000;
     }
 
 nav li {
