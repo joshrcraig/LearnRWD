@@ -25,7 +25,7 @@ body {
     
 header {
     grid-area:header;
-    background-color:white;
+    background-color:#d6d7d9;
     padding:5px;
     text-align:center;
     }
@@ -45,7 +45,7 @@ header h3 {
 }
 nav {
     grid-area:nav;
-    background-color:white;
+    background-color:#d6d7d9;
     }
 
 nav li {
@@ -65,7 +65,7 @@ a:hover {
 }
 main {
     grid-area:main;
-    background-color:white;
+    background-color:#d6d7d9;
     padding:5px;
     }
 
@@ -82,7 +82,7 @@ main p {
 
 footer {
     grid-area:footer;
-    background-color:white;
+    background-color:#d6d7d9;
     padding:5px;
     text-align:center;
     }
