@@ -65,7 +65,7 @@ a:hover {
 }
 main {
     grid-area:main;
-    background:rgba(0,0,0,.2);
+    background:#0000003C;
     padding:5px;
     }
 
@@ -82,7 +82,7 @@ main p {
 
 footer {
     grid-area:footer;
-    background:rgba(0,0,0,.2);
+    background:#0000003C;
     padding:5px;
     text-align:center;
     }
