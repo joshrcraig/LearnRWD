@@ -67,7 +67,7 @@ a:hover {
 }
 main {
     grid-area:main;
-    background-color:#e4e2e0;
+    border: 2px solid black;
     padding:5px;
     border-radius:5px;
     }
