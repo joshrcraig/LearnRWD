@@ -1,4 +1,11 @@
-/*For Project 11 - HOME, BLOG, ABOUT, TESTS, & CONTACT - added lines 3-26, 88, 95, 98-102, 187, 190-192*/
+/*For Project 11 - HOME, BLOG, ABOUT, TESTS, & CONTACT - added lines 3-33, 95, 102, 99-103, 188-193*/
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
+    transition: none !important;
+  }
+}
 
 @keyframes logo {
    0% {
@@ -93,12 +100,6 @@ header h3 {
     color:#ffffff;
     margin:0;
     animation: words 2s;
-}
-
-@media (prefers-reduced-motion: reduce) {
-  * {
-    animation: none;
-  }
 }
 
 nav {
